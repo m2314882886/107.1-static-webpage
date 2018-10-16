@@ -14,11 +14,11 @@
 ## Week 4
 - [ttt.html](https://github.com/m2314882886/107.1-static-webpage/blob/master/w04/ttt.html)
 - [ttt.css](https://github.com/m2314882886/107.1-static-webpage/blob/master/w04/ttt.css)
-* blog(1).html
+- [blog(1).html](https://github.com/m2314882886/107.1-static-webpage/blob/master/w04/blog(1).html)
 * blog.css
 * profile.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTk4MjMwNywyMTQwNjY4OTY5LC0xMj
-EwNzkxNDY5LDIwMjg4ODEzNzgsLTE1Mzg5NjA1NCwtNjM3NTAy
-Mjk1LDg0NDQ3MDEyNV19
+eyJoaXN0b3J5IjpbLTcwNzYyMzgyLDIxNDA2Njg5NjksLTEyMT
+A3OTE0NjksMjAyODg4MTM3OCwtMTUzODk2MDU0LC02Mzc1MDIy
+OTUsODQ0NDcwMTI1XX0=
 -->
