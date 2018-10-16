@@ -1,10 +1,10 @@
 # 107.1-static-webpage
 
 ## Week 1
-- [ intro.html ]
+- [ intro.html ](https://github.com/m2314882886/107.1-static-webpage/blob/master/w01/intro.html)
 
 ## Week 2
-* table.html
+*-[table.html]()
 * myclass.html
 
 ## Week 3
@@ -18,6 +18,6 @@
 * blog.css
 * profile.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg5NjA1NCwtNjM3NTAyMjk1LDg0ND
-Q3MDEyNV19
+eyJoaXN0b3J5IjpbODQ4OTU5Nzk5LC0xNTM4OTYwNTQsLTYzNz
+UwMjI5NSw4NDQ0NzAxMjVdfQ==
 -->
