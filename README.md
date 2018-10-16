@@ -1,7 +1,7 @@
 # 107.1-static-webpage
 
 ## Week 1
-* intro.html
+*-[ intro.html
 
 ## Week 2
 * table.html
@@ -18,5 +18,6 @@
 * blog.css
 * profile.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzUwMjI5NSw4NDQ0NzAxMjVdfQ==
+eyJoaXN0b3J5IjpbOTA0Nzg1MTQzLC02Mzc1MDIyOTUsODQ0ND
+cwMTI1XX0=
 -->
