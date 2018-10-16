@@ -4,8 +4,8 @@
 - [ intro.html ](https://github.com/m2314882886/107.1-static-webpage/blob/master/w01/intro.html)
 
 ## Week 2
-* table.html
-* myclass.html
+- [table.html](https://github.com/m2314882886/107.1-static-webpage/blob/master/w02/table.html)
+- [myclass.html](https://github.com/m2314882886/107.1-static-webpage/blob/master/w02/myclass.html)
 
 ## Week 3
 * tku60.html
@@ -18,6 +18,6 @@
 * blog.css
 * profile.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU3NDcwMTEsMjAyODg4MTM3OCwtMT
-UzODk2MDU0LC02Mzc1MDIyOTUsODQ0NDcwMTI1XX0=
+eyJoaXN0b3J5IjpbLTc2NjA5NDk5OSwyMDI4ODgxMzc4LC0xNT
+M4OTYwNTQsLTYzNzUwMjI5NSw4NDQ0NzAxMjVdfQ==
 -->
