@@ -27,6 +27,9 @@
 ## Week 7
 - [galleryTemplate.html](https://github.com/m2314882886/107.1-static-webpage/blob/master/w07/galleryTemplate.html)
 - [navbar.html](https://github.com/m2314882886/107.1-static-webpage/blob/master/w07/navbar.html)
+
+## Week 8
+- [Pattern](https://github.com/m2314882886/107.1-static-webpage/blob/master/w08)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjEyNzAyNjI4NywyMTQwNjY4OTY5LC0xMj
 EwNzkxNDY5LDIwMjg4ODEzNzgsLTE1Mzg5NjA1NCwtNjM3NTAy
