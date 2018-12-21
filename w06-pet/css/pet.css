@@ -46,16 +46,16 @@ footer{
     line-height: 50px;
 }
 
-nav{
+#content nav{
     margin-top: 170px;
 }
 
-nav ul{
+#content nav ul{
     padding: 0px;
     list-style: none;
 }
 
-nav ul li a{
+#content nav ul li a{
     display: block;
     width: 150px;
     height: 42px;
@@ -64,13 +64,13 @@ nav ul li a{
     line-height: 35px;
 }
 
-nav ul li a:hover{
+#content nav ul li a:hover{
     background-image: url(../images/btn_hover.png);
     color: white;
 }
 
 img{
-    width: 120px;
+    width: 100px;
     margin: 3px;
     border-radius: 20px;
 }
